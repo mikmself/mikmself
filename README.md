@@ -1,19 +1,27 @@
-# 💫 About Me:
-👋 Hi, I'm Muhamad Irga Khoirul Mahfis<br>
-🎓 Informatics Student, Class of 2022 at Universitas Amikom Purwokerto<br>
-🌐 Junior Web Developer since 2021<br>
-<br> 
-# #💼 Professional Experience:<br>
-<br> 
-* CEO at PT MIKM Technology Creative 🚀<br>
-* Commissioner at Cv WeddingNesia Digital Invitation 💌<br>
-* Event Chair at IITC 2024 (Intermedia Information Technology Competition) 🎉<br>
-* P2MW Team Leader | Represented at KMI EXPO, Bali 2022 🌴<br>
-* Sponsorship Coordinator for IITC 2023 🤝<br>
-* Extracurricular Programming Instructor at SMP Al-Irsyad Purwokerto 👨‍🏫<br>
-* Science Division Coordinator at UKM Intermedia (led 3 divisions: programming, multimedia, and robotics, with 150+ members) ⚙️🎨🤖
-<br>
-✨ Always eager to learn and grow in the tech world!<br>
+# 💫 About Me
+👋 **Hi, I'm Muhamad Irga Khoirul Mahfis**  
+🎓 *Informatics Student, Class of 2022 at Universitas Amikom Purwokerto*  
+🌐 *Junior Web Developer since 2021*  
+
+💬 I'm passionate about technology, always eager to learn, and love collaborating on exciting projects!
+
+---
+
+## 💼 **Professional Experience**
+- **CEO** at *PT MIKM Technology Creative* 🚀
+- **Commissioner** at *Cv WeddingNesia Digital Invitation* 💌
+- **Event Chair** at *IITC 2024* (Intermedia Information Technology Competition) 🎉
+- **P2MW Team Leader** | Represented at *KMI EXPO, Bali 2022* 🌴
+- **Sponsorship Coordinator** for *IITC 2023* 🤝
+- **Extracurricular Programming Instructor** at *SMP Al-Irsyad Purwokerto* 👨‍🏫
+- **Science Division Coordinator** at *UKM Intermedia*  
+  *(Led 3 divisions: programming, multimedia, and robotics, overseeing 150+ members)* ⚙️🎨🤖
+
+---
+
+✨ **Always eager to learn and grow in the tech world!**  
+🌟 *Let’s connect and create something amazing together!*
+
 
 
 ## 🌐 Socials:
