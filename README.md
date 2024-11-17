@@ -1,5 +1,18 @@
 # 💫 About Me:
-Hello, I am Muhamad Irga Khoirul Mahfis 👋<br>Informatics student batch 22 Amikom Purwokerto University 🎓<br>Started my career as a junior web developer since 2021 💻✨<br>Happy to share and collaborate! 😄👨‍💻
+👋 Hi, I'm Muhamad Irga Khoirul Mahfis<br>
+🎓 Informatics Student, Class of 2022 at Universitas Amikom Purwokerto<br>
+🌐 Junior Web Developer since 2021<br>
+<br> <br>
+💼 Professional Experience:<br>
+<br> <br>
+CEO at PT MIKM Technology Creative 🚀<br>
+Commissioner at Cv WeddingNesia Digital Invitation 💌<br>
+Event Chair at IITC 2024 (Intermedia Information Technology Competition) 🎉<br>
+P2MW Team Leader | Represented at KMI EXPO, Bali 2022 🌴<br>
+Sponsorship Coordinator for IITC 2023 🤝<br>
+Extracurricular Programming Instructor at SMP Al-Irsyad Purwokerto 👨‍🏫<br>
+Science Division Coordinator at UKM Intermedia (led 3 divisions: programming, multimedia, and robotics, with 150+ members) ⚙️🎨🤖<br>
+✨ Always eager to learn and grow in the tech world!<br>
 
 
 ## 🌐 Socials:
