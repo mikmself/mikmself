@@ -33,7 +33,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikmself&theme=github)
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=mikmself&show_icons=true&theme=github&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikmself&theme=github&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikmself&theme=github&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikmself&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikmself&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikmself&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikmself&theme=github&utcOffset=7)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mikmself&icon=0&color=0)](https://visitcount.itsvg.in)
