@@ -64,6 +64,6 @@
 </table>
 
 ---
-[!](https://profile-counter.glitch.me/mikmself/count.svg)]
+[!][(https://profile-counter.glitch.me/mikmself/count.svg)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
